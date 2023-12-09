@@ -1,1 +1,1 @@
-<em>This file is mandatory in projects</em>
+<b>This file is mandatory in projects</b>
